@@ -79,19 +79,12 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Hebrew
-    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Practical builder mindset
-    date: '2024-01-01'
-    awarder: Ongoing work
-    summary: |
-      A preference for shipping small, useful tools quickly and refining them through real use.
+awards: []
 ---
 
 ## About Me

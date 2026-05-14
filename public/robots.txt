@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://nadavweisler.github.io/sitemap.xml
